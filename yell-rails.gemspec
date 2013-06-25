@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_runtime_dependency "yell", "~> 1.4"
-  s.add_runtime_dependency "rails", "~> 3"
+  s.add_runtime_dependency "rails", "~> 4.0.0"
 end
 
